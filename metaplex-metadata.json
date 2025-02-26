@@ -5,7 +5,7 @@
   "image": "https://raw.githubusercontent.com/larapiotoken/meu-token-solana/main/token-image.jpg",
   "external_url": "https://x.com/LARAPIOtoken",
   "seller_fee_basis_points": 500,
-  "uri": "https://raw.githubusercontent.com/larapiotoken/meu-token-solana/main/metaplex-metadata.json",
+  "uri": "https://raw.githubusercontent.com/larapiotoken/meu-token-solana/refs/heads/main/metaplex-metadata.json",
   "properties": {
     "category": "token",
     "creators": [
