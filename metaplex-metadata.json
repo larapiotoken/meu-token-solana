@@ -1,11 +1,10 @@
 {
   "name": "LARAPIO",
   "symbol": "LARAPIO",
-  "description": "Community protest token: 4.6B, matching the damage from Milei’s scumbag scam with his cursed LIBRA. He’s done! This is gonna be HUGE—get in early. Buy LARAPIO now before it moons!",
+  "description": "4.6B dollars to match the damage from Milei’s scumbag scam with that cursed LIBRA. He’s toast! Let’s screw this jerk over today.",
   "image": "https://raw.githubusercontent.com/larapiotoken/meu-token-solana/main/token-image.jpg",
   "external_url": "https://x.com/LARAPIOtoken",
-  "seller_fee_basis_points": 500,
-  "uri": "https://raw.githubusercontent.com/larapiotoken/meu-token-solana/refs/heads/main/metaplex-metadata.json",
+  "seller_fee_basis_points": 0,
   "properties": {
     "category": "token",
     "creators": [
